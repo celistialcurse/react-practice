@@ -1,3 +1,3 @@
- export const App =()=>{
-return  <h1>Hello ,Pratik</h1>;
-}
+export const App = () => {
+  return <h1>Hello ,Pratik jain</h1>;
+};
